@@ -1,0 +1,22 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "first test of npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaroslavLazorenko/npm-test.git"
+  },
+  "keywords": [],
+  "author": "Yaroslav Lazorenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaroslavLazorenko/npm-test/issues"
+  },
+  "homepage": "https://github.com/YaroslavLazorenko/npm-test#readme",
+  "dependencies": {}
+}
